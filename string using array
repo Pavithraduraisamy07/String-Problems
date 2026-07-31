@@ -1,0 +1,9 @@
+import java.util.*;
+public class placement {
+    public static void main(String[]args){
+     String s="haxhaxhaxha";
+    String arr[]=s.split("ha");
+    System.out.println(arr.length);      
+
+}
+}
