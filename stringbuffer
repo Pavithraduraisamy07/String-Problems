@@ -1,0 +1,8 @@
+public class stringbuffer {
+    public static void main(String[]args){
+    StringBuffer s1=new StringBuffer("pavi");
+       s1.append(" thra");
+       s1.insert(9," duraisamy ");
+       System.out.println(s1);
+    }
+}
